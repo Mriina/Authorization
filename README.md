@@ -8,6 +8,6 @@
 ### 3. Open a file with the sln extension
 
 ### 4. And click Start button 
-
-![Image alt](https://github.com/Mriina/Authorization/raw/master/Authorization.jpg "You will see the following window:")
+### You will see the following window:
+![Image alt](https://github.com/Mriina/Authorization/raw/master/Authorization.jpg )
 
