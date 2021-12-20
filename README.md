@@ -9,7 +9,5 @@
 
 ### 4. And click Start button 
 
-![Image alt](https://github.com/Mriina/Authorization/raw/master/Authorization.jpg)
+![Image alt](https://github.com/Mriina/Authorization/raw/master/Authorization.jpg "You will see the following window:")
 
-
-(C:\Users\Марина\Authorization\Authorization.jpg "You will see the following window:")
