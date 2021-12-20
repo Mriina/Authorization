@@ -2,11 +2,11 @@
 
 ## To start the project, follow these steps:
 
-### - First you need to download Visual Studio 2019 or higher and install ASP.NET package
-### - Second download the project and run
+### 1. At first you need to download Visual Studio 2019 or higher and install ASP.NET package
+### 2. Then download the project and run
 
-### - Third Open a file with the sln extension
+### 3. Open a file with the sln extension
 
-### - Fourth And click Start button 
+### 4. And click Start button 
 
-!(C:\Users\Марина\Authorization\Authorization.jpg "You will see the following window:")
+(C:\Users\Марина\Authorization\Authorization.jpg "You will see the following window:")
